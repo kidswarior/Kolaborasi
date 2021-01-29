@@ -9,8 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Kolaborasi">
-        <activity android:name=".AdaamActivity"></activity>
-        <activity android:name=".RizkyActivity" />
+        <activity android:name=".RizkyActivity"></activity>
         <activity android:name=".NafisActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
